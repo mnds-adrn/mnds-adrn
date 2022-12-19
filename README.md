@@ -18,7 +18,7 @@ I wish to contribute for a optimal digital communication without losing the huma
 
 mnds@github:~$ ls languages-and-tools
 Angular           bootstrap           c.c           css3.css           html5.html          javascript.js  
-Linux             python.py           typescript.ts
+Linux             python.py           typescript.ts.          nim.nim
 
 mnds@github:~$ cd learning/
 mnds@github:~/learning$ ls
