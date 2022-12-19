@@ -22,7 +22,7 @@ Linux             python.py           nim.nim       typescript.ts
 
 mnds@github:~$ cd learning/
 mnds@github:~/learning$ ls
-42barcelona.txt           angular           cybersecurity.txt           threejs           nim
+42barcelona.txt           Angular           cybersecurity.txt           Three.js           nim
 
 mnds@github:~/learning$ cat 42barcelona.txt
 Current studing C programming at 42 Barcelona.
