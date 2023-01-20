@@ -13,7 +13,7 @@ README.md           languages-and-tools           learning            creative-s
 mnds@github:~$ cat README.md
 #Hello, I am Adriano.
 ##Cybersecurity, Software and Web development
-I wish to contribute for a optimal digital communication without losing the human factor merging ** art ** and
+I wish to contribute for a optimal digital environment without losing the human factor merging ** art ** and
 ** technology **.
 
 mnds@github:~$ ls languages-and-tools
